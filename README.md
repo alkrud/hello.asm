@@ -1,0 +1,28 @@
+# Description
+
+### Simple "hello world" program written in Linux x86_64 assembly
+
+# Requirements
+
+### GNU  [binutils](https://www.gnu.org/software/binutils)
+### NASM [nasm](https://www.nasm.us)
+
+# How to build and run
+
+### First clone the repo
+
+```
+git clone https://github.com/alkrud/hello.asm.git
+```
+
+### Run the necessary commands
+
+```
+cd hello.asm
+make
+./hello
+```
+
+# Reference
+
+### [Introduction to Assembly](https://github.com/0xAX/asm/blob/master/content/asm_1.md)
