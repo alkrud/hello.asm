@@ -19,7 +19,8 @@ git clone https://github.com/alkrud/hello.asm.git
 
 ```
 cd hello.asm
-make
+nasm -f elf64 -o hello.o hello.asm
+ld -o hello hello.o
 ./hello
 ```
 
