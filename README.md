@@ -4,7 +4,7 @@
 
 # Requirements
 
-### [GNU binutils](https://www.gnu.org/software/binutils)
+### [GNU Binutils](https://www.gnu.org/software/binutils)
 ### [NASM](https://www.nasm.us)
 
 # How to build and run
