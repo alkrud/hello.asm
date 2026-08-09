@@ -12,7 +12,7 @@
 ### First clone the repo
 
 ```
-git clone https://github.com/alkrud/hello.asm.git
+git clone https://github.com/irivia/hello.asm.git
 ```
 
 ### Run the necessary commands
